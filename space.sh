@@ -16,8 +16,8 @@ du | sort -n -r | head -5 >> p.txt
 
 cat p.txt
 
-touch d
+touch a
 
-rm d
+rm a
 
 ls
